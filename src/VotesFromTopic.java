@@ -32,7 +32,7 @@ public class VotesFromTopic {
 	private static final Pattern correctVotePat = Pattern.compile(">[ \\t]*[\\+|\\-]((1[0-5])|[1-9])[~#\\*\\/\\!:%&;=\\+<>\\*\\.\\?\\[\\]\\(\\)\\'\\,\\-\\_ a-zA-Z0-9]{2,}?(<br/|</div|</p)");
 	private static final Pattern alternateVotePat = Pattern.compile(">[ \\t]*[~#\\*\\/\\!%:&;=\\+<>\\*\\.\\?\\[\\]\\(\\)\\'\\,\\-\\_ a-zA-Z0-9]{2,}?[\\+|\\-]((1[0-5])|[1-9])+\\s*(<br/|</div|</p)");
 	private static final Pattern noPlusMinusVotePat = Pattern.compile(">[ \\t]*((1[0-5])|[1-9])[~#\\*\\/\\!:%&;=\\+<>\\*\\.\\?\\[\\]\\(\\)\\'\\,\\-\\_ a-zA-Z0-9]{2,}?(<br/|</div|</p)");
-	private static final Pattern userPat = Pattern.compile("class=\"name\">[\\-_ a-zA-Z0-9]{1,}?<.*?" + "(class=\"author\">|div id=\"sponsored_links\">)");
+	private static final Pattern userPat = Pattern.compile("class=\"name\">[\\-_ a-zA-Z0-9]{1,}?<.*?" + "(class=\"author\"|div id=\"sponsored_links\"|div class=\"pages\")>");
 
 	// TODO:
 	// HANDLE NUMBER AFTER USER VOTES
@@ -74,6 +74,7 @@ public class VotesFromTopic {
 				System.out.println(user);
 				String t = s.split("Posted ")[1].split("<br/>")[0];
 				t = t.replace("&nbsp;", " ");
+				System.out.println("USER=" + user);
 				String flags = "N";
 				if (s.contains("<br/>(edited)</div>"))
 					flags += "E";

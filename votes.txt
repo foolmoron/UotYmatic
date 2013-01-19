@@ -56,80 +56,206 @@
 -1Great_Paul
 -2foolmo
 -3Anagaram
-*010*1/18/2013 5:01:31 PM*KateWadman*N
+*010*1/18/2013 5:01:00 PM*XIII_socks*N
++3 Luster Soldier
++2 Korayashi
++1 foolmoron
+-1 Great_Paul
+-2 whatisyournameplz
+-3 EndOfDiscOne
+*011*1/18/2013 5:01:31 PM*KateWadman*N
 +3 ZenOfThunder
 +2 KamikazePotato
 +1 Bidoof
 -1 whatisurnameplz
 -2 EndOfDiscOne
 -3 Anagaram
-*011*1/18/2013 5:03:22 PM*edwardsdv*N
+*012*1/18/2013 5:03:22 PM*edwardsdv*N
 +3korayashi
 +2 Anagram
 +1 Bidoof
 -1GreatPaul
 -2whatisyournameplz
 -3EndOfDiscOne
-*012*1/18/2013 5:05:10 PM*ImTheMacheteGuy*N
+*013*1/18/2013 5:05:10 PM*ImTheMacheteGuy*N
 +3 Korayashi
 +2 Luster Soldier
 +1 Great_Paul
 -1 whatisurnameplz
 -2 EndOfDiscOne
 -3 Anagaram
-*014*1/18/2013 5:09:08 PM*Snake5555555555*N
+*015*1/18/2013 5:09:08 PM*Snake5555555555*N
 +3 Anagram
 +2 EndOfDiscOne
 +1 Great Paul
 -1 Bidoof
 -2 whatisyournameplz
 -3 Luster Soldier
-*015*1/18/2013 5:11:01 PM*ctesjbuvf*N
+*016*1/18/2013 5:11:01 PM*ctesjbuvf*N
 +3 foolmo
 +2 Luster Soldier
 +1 KamikazePotato
 -1 EndOfDiscOne
 -2 whatisurnameplz
 -3 Great_Paul
-*016*1/18/2013 5:13:31 PM*AdmiralZephyr*N
+*017*1/18/2013 5:13:31 PM*AdmiralZephyr*N
 +3 Anagram
 +2 KamikazePotato
 +1 Great_Paul
 -1 whatisurnameplz
 -2 Korayashi
 -3 Bidoof
-*017*1/18/2013 5:15:31 PM*TheArkOfTurus*N
+*018*1/18/2013 5:15:31 PM*TheArkOfTurus*N
 +3 KamikazePotato
 +2 Korayashi
 +1 ZenOfThunder
 -1 Great_Paul
 -2 whatisyournameplz
 -3 EndOfDiscOne
-*018*1/18/2013 5:15:34 PM*PrinceKaro*N
+*019*1/18/2013 5:15:34 PM*PrinceKaro*N
 +3 foolmo
 +2 Great_Paul
 +1 Anagram
 -1 EndOfDiscOne
 -2 Bidoof
 -3 whatisurnameplz
-*019*1/18/2013 5:18:11 PM*SpikeDragon*N
+*020*1/18/2013 5:16:25 PM*TheCodeisBosco*N
++3 Anagram
++2 Great_Paul
++1 Luster
+-1 whatisurnameplz
+-2 KamikazePotato
+-3 Korayashi
+*021*1/18/2013 5:18:11 PM*SpikeDragon*N
 +3 foolmo
 +2 KamikazePotato
 +1 EndOfDiscOne
 -1 Great_Paul
 -2 Luster Soldier
 -3 Korayashi
-*020*1/18/2013 5:18:57 PM*My Immortal*N
+*022*1/18/2013 5:18:57 PM*My Immortal*N
 +3 foolmo
 +2 kamikazePotatoe
 +1 Anagram
 -1 bidoof
 -2 Luster
 -3 EndofDiskOne
-*021*1/18/2013 5:19:11 PM*foolm0r0n*N
+*023*1/18/2013 5:19:11 PM*foolm0r0n*N
 +3 Luster Soldier
 +2 Anagaram
 +1 foolmo
 -1 Bidoof
 -2 ZenOfThunder
 -3 Great_Paul
+*024*1/18/2013 5:22:38 PM*AdmiralZephyr*N
++3 Luster Soldier
++2 Anagaram
++1 foolmo
+-1 Bidoof
+-2 ZenOfThunder
+-3 Great_Paul
+*025*1/18/2013 5:30:07 PM*Luis_Sera89*N
++3 Bidoof
++2 Korayashi
++1 Anagaram
+-1 whatisurnameplz
+-2 foolmo
+-3 Luster Soldier
+*026*1/18/2013 5:30:16 PM*X_Dante_X*N
++3 bidoof
++2 korayashi
++1 anagram
+-1 endofdiscone
+-2 foolmo
+-3 luster soldier
+*027*1/18/2013 5:30:17 PM*Lopen*N
++3 bidoof
++2 Korayashi
++1 Anagram
+-1 endofdiscone
+-2 foolmo
+-3 luster soldier
+*028*1/18/2013 5:30:34 PM*Drakeryn*N
++3 Bidoof
++2 Korayashi
++1 Anagram
+-1 EndOfDiscOne
+-2 foolmo
+-3 Luster_Soldier
+*029*1/18/2013 5:31:00 PM*HeroicGammaRay*N
++3 bidoof
++2 Korayashi
++1 Anagram
+-1 endofdiscone
+-2 foolmo
+-3 luster soldier
+*030*1/18/2013 5:32:17 PM*Achromatic*N
++3 Luster Soldier
++2 Anagaram
++1 foolmo
+-1 Bidoof
+-2 ZenOfThunder
+-3 Great_Paul
+*032*1/18/2013 5:38:17 PM*GTM*N
++3 Bidoof
++2 Korayashi
++1 Luster Soldier
+-1 EndOfDiscOne
+-2 ZenOfThunder
+-3 whatisurnameplz
+*033*1/18/2013 5:44:54 PM*GuessMyUserName*N
++3 Great_Paul
++2 Korayashi
++1 EndOfDiscOne
+-1 Anagram
+-2 Bidoof
+-3 whatisurnameplz
+*034*1/18/2013 5:45:34 PM*MariaTaylor*N
++3 KamikazePotato
++2 Luster Soldier
++1 Korayashi
+-1 foolmo
+-2 Anagaram
+-3 EndOfDiscOne
+*036*1/18/2013 5:53:00 PM*SBell0105*N
++3 foolmo
++2 Luster Soldier
++1 KamikazePotato
+-1 EndOfDiscOne
+-2 whatisurnameplz
+-3 Great_Paul
+*037*1/18/2013 5:54:19 PM*Whiskey_Nick*N
++3 Korayashi
++2 foolmo
++1 KamikazePotato
+-1 Anagaram
+-2 whatusurnameplz
+-3 Luster Soldier
+*038*1/18/2013 5:57:37 PM*mnkboy907*N
++3 foolmo
++2 Great_Paul
++1 Anagarama
+-1 ZenOfThunder
+-2 Korayashi
+-3 Bidoof
+*039*1/18/2013 6:02:29 PM*cody11533*N
++3 Great_Paul
++2 Anagram
++1 Luster Soldier
+-1 ZenOfThunder
+-2 EndOfDiscOne
+-3 Korayashi
+*040*1/18/2013 6:03:52 PM*KokoroAkechi*N
++3 Foolmo
++2 Luster
++1 Potato
+-1 EndofDiscOne
+-2 whatisurnameplz
+-3 korayashi
+*041*1/18/2013 6:04:10 PM*Menji76*N
++3 Great_Paul
++2 EndOfDiscOne
++1 ZenOfThunder
+-1 Korayashi
+-2 Bidoof
+-3 Luster Soldier
