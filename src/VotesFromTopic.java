@@ -52,6 +52,7 @@ public class VotesFromTopic {
 		if (titleMat.find())
 			topicTitle = titleMat.group().split("\">")[1].split("</h2>")[0];
 		tcTime = currentSource.split("Posted ")[1].split("<br/>")[0];
+		tcTime = tcTime.replace("&nbsp;", " ");
 		voteOutput = "~~Votes collected from " + topicTitle + " at date " + tcTime + "~~" + "\n" + Post.getExpectedVoteCount() + " votes per post";
 
 		for (int i = 0; i < maxPageNumber; i++) {
@@ -72,6 +73,7 @@ public class VotesFromTopic {
 				String user = s.split("<")[0].split(">")[1];
 				System.out.println(user);
 				String t = s.split("Posted ")[1].split("<br/>")[0];
+				t = t.replace("&nbsp;", " ");
 				String flags = "N";
 				if (s.contains("<br/>(edited)</div>"))
 					flags += "E";

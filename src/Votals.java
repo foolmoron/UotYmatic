@@ -9,10 +9,10 @@ public class Votals {
 	private ArrayList<Vote> morningvote = new ArrayList<Vote>();
 	private ArrayList<Vote> dayvote = new ArrayList<Vote>();
 	private static Date tc = Manager.tcTime;
-	private static Date powerTime = (Date) tc.clone();
-	private static Date nightTime = (Date) tc.clone();
-	private static Date mornTime = (Date) tc.clone();
-	private static Date dayTime = (Date) tc.clone();
+	private static Date powerTime;
+	private static Date nightTime;
+	private static Date mornTime;
+	private static Date dayTime;
 	private static int max = 3;
 	private static int min = -3;
 
@@ -34,6 +34,10 @@ public class Votals {
 
 	public static void setTime() {
 		tc = Manager.tcTime;
+		powerTime = (Date) tc.clone();
+		nightTime = (Date) tc.clone();
+		mornTime = (Date) tc.clone();
+		dayTime = (Date) tc.clone();
 		powerTime.setHours(tc.getHours() + 1);
 		if (nightTime.getHours() > 3)
 			nightTime.setDate(nightTime.getDate() + 1);
@@ -105,9 +109,6 @@ public class Votals {
 	}
 
 	public void addVote(Vote vote) {
-		Date tx = tc;
-		Date tn = nightTime;
-		Date tm = mornTime;
 		Date date = vote.post.getDate();
 		if (date.before(powerTime)) {
 			powerhour.add(vote);
